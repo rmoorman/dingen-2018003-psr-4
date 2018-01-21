@@ -1,0 +1,15 @@
+{
+  "name": "dingen",
+  "description": "dingen",
+  "license": "MIT",
+  "keywords": ["dingen"],
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "^5.7"
+  },
+  "autoload": {
+    "psr-4": {
+      "dingen\\": "src"
+    }
+  }
+}
