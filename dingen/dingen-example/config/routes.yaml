@@ -1,0 +1,11 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+yea:
+  path: /yea
+  controller: App\Controller\DingenController::yea
+
+nay:
+  path: /nay
+  controller: App\Controller\DingenController::nay
